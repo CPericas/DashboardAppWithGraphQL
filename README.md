@@ -1,4 +1,4 @@
-A gorgeous Task Personal Dashboard set up with Vite + React + Typescript
+A gorgeous Personal Dashboard set up with Vite + React + Typescript
 
 Access the user profile on the main page complete with sleek and modern Bootstrap styling. From here you have Bootstrap Buttons to go to posts, album, or todo.
 
