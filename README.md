@@ -1,4 +1,5 @@
 A gorgeous Personal Dashboard set up with Vite + React + Typescript
+Using the GraphQL Zero API utilizing Apollo Client.
 
 Access the user profile on the main page complete with sleek and modern Bootstrap styling. From here you have Bootstrap Buttons to go to posts, album, or todo.
 
